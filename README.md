@@ -14,21 +14,24 @@ Job Title: The job title or role of the individual.
 Years of Experience: The number of years of professional experience.
 Salary: The salary of the individual (in dollars per year), with some missing values represented as NaN.
 
+[Salary DataSet](https://github.com/Bytecode-Magnum/Salary_Data_ExploratoryDataAnalysis/blob/main/Salary_Data.csv)
+
 ## Exploratory Data Analysis:
+   
 During the exploratory data analysis phase, I began by checking the general structure of the dataset, looking for any missing values, and assessing the distribution of the numerical variables (age, years of experience, and salary). I handled missing values appropriately, ensuring they didn't skew the analysis. Descriptive statistics were computed to understand the central tendencies and spreads of the numerical attributes.
 
 Next, I performed various univariate and bivariate analyses to gain insights into individual attributes and their relationships. For example, I explored the distribution of education levels among different genders and analyzed the salary distribution based on job titles. Furthermore, I investigated any correlations between age, years of experience, and salary to identify potential patterns.
+### [Data Processing](https://github.com/Bytecode-Magnum/Salary_Data_ExploratoryDataAnalysis/blob/main/Salary_dataset.ipynb) 
 
 ## Data Visualization:
-Data visualization played a crucial role in this project as it helped present complex findings in a more accessible manner. I utilized various visualization techniques, such as bar charts, histograms, scatter plots, and box plots, to showcase different aspects of the data.
-
-For instance, I created bar charts to visualize the distribution of education levels and job titles. Scatter plots were employed to examine the relationship between age, years of experience, and salary. Box plots were utilized to highlight the spread of salaries based on gender.
+Data visualization played a crucial role in this project as it helped present complex findings in a more accessible manner. I utilized various visualization techniques, such as bar charts, histograms, scatter plots, and box plots, to showcase different aspects of the data.   
+ [Data visulization](https://nbviewer.org/github/Bytecode-Magnum/Salary_Data_ExploratoryDataAnalysis/blob/main/Sales_dataset_Data_Visualization.ipynb)
 
 ## Libraries:
-Here are the Python packages I used for the project:                                                           Pandas      
-Seaborn           
-Numpy   
-Plotly.express
+Here are the Python packages I used for the project:                                                           [Pandas](https://pandas.pydata.org/)      
+[Seaborn](https://seaborn.pydata.org/)          
+[Numpy](https://numpy.pydata.org/)  
+[Plotly express](https://plotly.com/python/)
 
 ## Insights and Conclusion:
 Through exploratory data analysis and data visualization, I uncovered several key insights about the dataset:
