@@ -27,7 +27,7 @@ Next, I performed various univariate and bivariate analyses to gain insights int
 
 Data visualization played a crucial role in this project as it helped present complex findings in a more accessible manner. I utilized various visualization techniques, such as bar charts, histograms, scatter plots, and box plots, to showcase different aspects of the data.   
 Plotly.express is used for data analysis, but github dont render dynamic plots,so below is link for nbviewer.
- [Data visulization](https://nbviewer.org/github/Bytecode-Magnum/Salary_Data_ExploratoryDataAnalysis/blob/main/Sales_dataset_Data_Visualization.ipynb)
+ [Data visulization](https://nbviewer.org/github/Bytecode-Magnum/Salary_Data_ExploratoryDataAnalysis/blob/main/Salary_dataset_Data_Visualization.ipynb)
 
 ## Libraries:
 Here are the Python packages I used for the project:                                                           [Pandas](https://pandas.pydata.org/)      
